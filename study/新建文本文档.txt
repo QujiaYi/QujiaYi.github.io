@@ -1,0 +1,11 @@
+<html>
+<head></head>
+<body>
+	<ul>
+		<li><a href="img/a.jpg"></a></li>
+		<li><a href="img/b.jpg"></a></li>
+		
+	</ul>
+	<img id="img" src="img/bj.jpg">
+</body>
+</html>
