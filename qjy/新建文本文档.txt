@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>image gallery</title>
+</head>
+<body>
+<h1>Snapshots</h1>
+<ul>
+  <li>
+    <a href="01.jpg" title="15165353" onclick="showPic(this);return false;">01</a>
+  <>
+  <li>
+    <a href="02.jpg" title="15165354" onclick="showPic(this);return false;">02</a>
+  <>
+  <li>
+    <a href="03.jpg" title="15165355" onclick="showPic(this);return false;">03</a>
+  <>
+  <li>
+    <a href="04.jpg" title="15165356" onclick="showPic(this);return false;">04</a>
+  <>
+</ul>
+<img id="placeholder" src="01.jpg" alt="my image gallery"/>
+<p id="description">choose an image.</p>
+<script src=1.js></script>
+</body> 
+</html>
